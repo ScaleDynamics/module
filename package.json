@@ -1,0 +1,14 @@
+{
+  "name": "module",
+  "version": "1.0.0",
+  "author": "ScaleDynamics",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@warpjs/engine": "^4.0.14"
+  },
+  "devDependencies": {
+    "warp": "^4.0.14"
+  }
+}
