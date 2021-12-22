@@ -1,2 +1,4 @@
 node_modules/
 .warp/
+client/*.js
+client/*.ts
