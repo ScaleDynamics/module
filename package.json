@@ -5,9 +5,9 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@warpjs/engine": "^4.0.18"
+    "@warpjs/engine": "^4.0.19"
   },
   "devDependencies": {
-    "warp": "^4.0.18"
+    "warp": "^4.0.19"
   }
 }
