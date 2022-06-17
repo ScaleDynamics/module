@@ -1,9 +1,15 @@
 {
-  "name": "module",
+  "name": "my-module",
   "version": "1.0.0",
   "author": "ScaleDynamics",
   "license": "MIT",
   "main": "index.js",
+  "scripts": {
+    "dev": "warp dev --output umd:./client/client.js",
+    "build": "warp build --output umd:./client/client.js",
+    "deploy": "warp deploy",
+    "test": "node test.js"
+  },
   "dependencies": {
     "@warpjs/engine": "^4.0.21"
   },
