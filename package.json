@@ -11,9 +11,9 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "@warpjs/engine": "^4.0.22"
+    "@warpjs/engine": "^4.0.23"
   },
   "devDependencies": {
-    "warp": "^4.0.22"
+    "warp": "^4.0.23"
   }
 }
